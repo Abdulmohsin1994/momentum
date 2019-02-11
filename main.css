@@ -1,0 +1,36 @@
+div{
+position: relative;
+left: 1200px;
+
+    /* background-color: rgba(176, 182, 187, 0.288); */
+    height: 100px;
+    width: 400px;
+}
+h1{
+    color:white;
+    /* border: solid 1px black */
+}
+
+#t{
+    font-size: 180px;
+    text-align: center;
+    margin:30px;
+}
+
+#q{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.d{
+    font-size: 15px;
+}
+#n{
+    text-align: center;
+    
+   
+    
+    font-size: 25px;
+    
+}
